@@ -15,8 +15,8 @@
 * ResNEt
 
 #### 사용한 언어 및 라이브러리
-<img src"https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src"https://img.shields.io/badge/pytorch-##EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 
