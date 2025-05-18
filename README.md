@@ -3,7 +3,7 @@
 #### Stable Diffusion을 활용하여 가상 데이터셋을 생성하고 이를 실제 데이터셋과의 비율을 조절하며 실제 학습에 효율적인지 연구
 
 
-## 연구개요
+## 연구 개요
 
 * 생성형 AI를 사용하면 데이터 부족 문제를 해결하거나 데이터의 일반화 성능 향상 가능성을 제공할 수 있는가?
 * ResNet18과 Stable Diffusion을 이용하여 가상 이미지와 실제 이미지의 비율을 조정하여 성능 비교
@@ -25,11 +25,23 @@
   <img src="https://github.com/user-attachments/assets/4403018d-fe5f-4589-90be-a957cabc9e33" width="45%"/>
 </p>
 
-![image](https://github.com/user-attachments/assets/373d65fd-47b3-4597-83b4-0b67230fa173) | ![image](https://github.com/user-attachments/assets/4403018d-fe5f-4589-90be-a957cabc9e33)
 ```
 “A photorealistic, highly detailed 8K photograph of a turtle in various settings and poses in the sea, shot with a Nikon Z7 II, 70-200mm lens, natural lighting, sharp focus, ultra-high-definition”
 ```
+#### 위 Prompt를 통해 가상이미지를 생성하고 생성한 데이터와 실제 데이터를 합친 Dataset 구성
 
+
+### 데이터셋 
+* Total Class : 6개 (Bear, Dog, Cat, turtle, Dear, Eagle)
+  * 구성: 
+    * Train : 1348
+    * Val : 162
+    * Test : 162
+      
+  * 이때 Test Data는 오직 실제 이미지 데이터만 사용하여 Test
+  * Fake:실제 = 5:5, 6:4, 7:3, 8:2
+
+## 연구 방법
 
 
 
