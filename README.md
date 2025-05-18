@@ -20,6 +20,11 @@
 
 
 ## 생성한 가상 이미지 및 사용한 프롬프트
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/373d65fd-47b3-4597-83b4-0b67230fa173" width="45%"/>
+  <img src="https://github.com/user-attachments/assets/4403018d-fe5f-4589-90be-a957cabc9e33" width="45%"/>
+</p>
+
 ![image](https://github.com/user-attachments/assets/373d65fd-47b3-4597-83b4-0b67230fa173) | ![image](https://github.com/user-attachments/assets/4403018d-fe5f-4589-90be-a957cabc9e33)
 ```
 “A photorealistic, highly detailed 8K photograph of a turtle in various settings and poses in the sea, shot with a Nikon Z7 II, 70-200mm lens, natural lighting, sharp focus, ultra-high-definition”
