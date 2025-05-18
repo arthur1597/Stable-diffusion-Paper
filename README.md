@@ -75,8 +75,8 @@
 데이터가 부족한 상황이 발생할 시 AI로 생성한 이미지를 활용한다면 데이터의 부족 문제 해결 가능성 존재
 
 
-### 프롬프트 최적화 기법을 효과적으로 활용하면, 원하는 데이터를 목적에 맞게 정밀하게 생성 가능
-### 특히 이미지 데이터를 수집하기 어려운 분야에서는, 이를 통해 대체 학습 데이터를 확보하거나 데이터 다양성을 높이는 데 큰 도움이 될 것으로 기대
+프롬프트 최적화 기법을 효과적으로 활용하면, 원하는 데이터를 목적에 맞게 정밀하게 생성 가능
+특히 이미지 데이터를 수집하기 어려운 분야에서는, 이를 통해 대체 학습 데이터를 확보하거나 데이터 다양성을 높이는 데 큰 도움이 될 것으로 기대
 
 
 
@@ -85,6 +85,10 @@
 2. F. A. Croitoru, V. Hondru, R. T. Ionescu and M. Shah, "Diffusion Models in Vision: A Survey," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi:10.1109/TPAMI.2023.3268241
 
 #### 본 연구는 2024년 과학기술정보통신부 및 정보통신기획평가원의 SW중심대학사업의 지원을 받아 수행되었습니다. (2024-0-00047)
+
+
+## 📄 논문 보기
+👉 [논문 PDF 바로 보기](https://github.com/Arthur1597/Stable-diffusion-Paper/raw/main/Stable Diffusion 기반 이미지 생성에 따른 학습 데이터 효율화 연구.pdf)
 
 
 
