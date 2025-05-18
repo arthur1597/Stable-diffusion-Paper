@@ -42,7 +42,7 @@
       
   * 이때 Test Data는 오직 실제 이미지 데이터만 사용하여 Test
   * Fake:Real = 5:5, 6:4, 7:3, 8:2
-<img src="https://github.com/user-attachments/assets/2d281b6f-dea9-4bb3-ad18-8d0c82bcfafd" width="400" height="400"/>
+<img src="https://github.com/user-attachments/assets/2d281b6f-dea9-4bb3-ad18-8d0c82bcfafd" width="600" height="400"/>
 
 
 
