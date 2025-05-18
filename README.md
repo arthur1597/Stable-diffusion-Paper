@@ -88,7 +88,7 @@
 
 
 ## 📄 논문 보기
-👉 [논문 PDF 바로 보기](https://github.com/arthur1597/Stable-diffusion-Paper/blob/main/Stable%20Diffusion%20%EA%B8%B0%EB%B0%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1%EC%97%90%20%EB%94%B0%EB%A5%B8%20%ED%95%99%EC%8A%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%9A%A8%EC%9C%A8%ED%99%94%20%EC%97%B0%EA%B5%AC.pdf))
+👉 [논문 PDF 바로 보기](https://github.com/arthur1597/Stable-diffusion-Paper/blob/main/Stable%20Diffusion%20%EA%B8%B0%EB%B0%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%83%9D%EC%84%B1%EC%97%90%20%EB%94%B0%EB%A5%B8%20%ED%95%99%EC%8A%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%9A%A8%EC%9C%A8%ED%99%94%20%EC%97%B0%EA%B5%AC.pdf)
 
 
 
