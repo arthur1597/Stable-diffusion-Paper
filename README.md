@@ -51,7 +51,7 @@
 
 
 ## 연구 결과
-| Dataset               | Test Accuracy |
+| Dataset               | Test Accuracy |   ![image](https://github.com/user-attachments/assets/5b8c0b20-2f67-4410-b0a6-fc16450c94c4)
 |-----------------------|---------------|
 | 실제 이미지 100%      | 98.15%        |
 | 5:5로 나눈 데이터셋   | 95.06%        |
