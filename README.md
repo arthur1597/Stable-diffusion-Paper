@@ -64,7 +64,7 @@
 #### 각 데이터셋의 Test Accuracy를 비교한 결과
 * 가장 높은 Accuracy는 실제 이미지로만 구성된 데이터셋
 * 두번쨰로 높은 것은 6:4로 구성된 데이터 - 인공 데이터를 효과적으로 이용
-* 5:5.7:3,8:2 에서는 실제 이미지로만 구성된 데이터셋보다 낮은 성능을 보임
+* 5:5, 7:3, 8:2 에서는 실제 이미지로만 구성된 데이터셋보다 낮은 성능을 보임
 
 :mag_right: 인공 이미지 비율이 과도하게 많아질 경우, 모델의 일반화 성능 감소 존재
 ### 따라서 인공이미지와 실제 이미지의 균형이 중요
@@ -79,6 +79,12 @@
 ### 특히 이미지 데이터를 수집하기 어려운 분야에서는, 이를 통해 대체 학습 데이터를 확보하거나 데이터 다양성을 높이는 데 큰 도움이 될 것으로 기대
 
 
+
+#### 참조 논문
+1. JHe,K.Zhang, X., Ren, S., & Sun, J. (2016). Deep Residual Learning for Image Recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 770–778. https://doi.org/10.1109/CVPR.2016.90
+2. F. A. Croitoru, V. Hondru, R. T. Ionescu and M. Shah, "Diffusion Models in Vision: A Survey," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi:10.1109/TPAMI.2023.3268241
+
+#### 본 연구는 2024년 과학기술정보통신부 및 정보통신기획평가원의 SW중심대학사업의 지원을 받아 수행되었습니다. (2024-0-00047)
 
 
 
