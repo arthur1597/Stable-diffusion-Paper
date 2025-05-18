@@ -21,7 +21,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-## 생성한 가상 이미지 및 사용한 프롬프트
+## 생성한 인공 이미지 및 사용한 프롬프트
 <p align="center">
   <img src="https://github.com/user-attachments/assets/373d65fd-47b3-4597-83b4-0b67230fa173" width="45%"/>
   <img src="https://github.com/user-attachments/assets/4403018d-fe5f-4589-90be-a957cabc9e33" width="45%"/>
@@ -30,7 +30,7 @@
 ```
 “A photorealistic, highly detailed 8K photograph of a turtle in various settings and poses in the sea, shot with a Nikon Z7 II, 70-200mm lens, natural lighting, sharp focus, ultra-high-definition”
 ```
-#### 위 Prompt를 통해 가상이미지를 생성하고 생성한 데이터와 실제 데이터를 합친 Dataset 구성
+#### 위 Prompt를 통해 인공이미지를 생성하고 생성한 데이터와 실제 데이터를 합친 Dataset 구성
 
 
 ### 데이터셋 
